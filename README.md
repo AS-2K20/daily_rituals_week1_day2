@@ -1,1 +1,1 @@
-# daily_rituals_week1_day2
+In these Excercises, we calculate roundOf Selling Price (where CP and Loss% are given) and Mid Point of 2 Given Co-ordinates.
